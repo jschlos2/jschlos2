@@ -5,6 +5,6 @@
 
 Some fun facts about me are that I have two kids, Frankie and Theo. 
 -->
-<img src="https://myreadme.vercel.app/api/embed/jschlos2?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=jschlos2&theme=vue-dark&hide_border=true"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jschlos2&theme=vue-dark&hide_border=true"></a>
 
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
