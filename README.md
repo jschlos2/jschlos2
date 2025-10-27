@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+## My name is Jennifer and I am a Human Systems Engineering major at Arizona State University. Some fun facts about me are that I have two kids, Frankie and Theo.
 <!--
  My name is Jennifer and I am a Human Systems Engineering major at Arizona State University. 
 
